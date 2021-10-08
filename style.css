@@ -1,0 +1,105 @@
+.d-block-w-100{
+    width: 75vw;
+    height: 90vh;
+    opacity: 0.7;
+    right: 0px;
+    z-index: 1;
+    border: 1px 1px 1px black;
+    border-radius: 10px;
+}
+.carousel-inner{
+    width: 80vw;
+    height: 90vh;
+}
+.center{
+    
+}
+body{
+    background:rgb(26, 26, 26);
+}
+.card1{
+    position:absolute;
+    left: 50%;
+    top: 10%;
+    background-image:linear-gradient(70deg, rgb(62, 32, 92), rgb(43, 39, 253)) ;
+    color: rgb(197, 197, 197);
+}
+.card2{
+    position:absolute;
+    left: 75%;
+    top: 10%;
+    background-image:linear-gradient(70deg, rgb(62, 32, 92), rgb(43, 39, 253)) ;
+    color: rgb(197, 197, 197);
+}
+.card3{
+    position:absolute;
+    left: 75%;
+    top: 10%;
+    background-image:linear-gradient(70deg, rgb(62, 32, 92), rgb(43, 39, 253)) ;
+    color: rgb(197, 197, 197);
+}
+.titulo{
+    font-size: x-large;
+    color: rgb(255, 255, 255);
+    justify-content: center;
+    display: flex;
+}
+
+.titulo2{
+    font-size: x-large;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;    
+    text-shadow: 1px 1px 1px black;
+}
+
+
+.texto{
+    font-size: x-large;
+    color: rgb(179, 179, 179);
+    display: flex;  
+    justify-content: flex-end;
+    margin-left: 5px;   
+    margin-right: 5px;
+}
+.nav-item{
+    
+}
+.nav-item:hover{
+    
+}
+.nav-link:active{
+    background: rgb(0, 0, 0);
+}
+
+.text{
+    position: absolute;
+    border-radius: 6px;
+    width: 37%;
+    display: block;
+    top: 20%;
+    color: rgb(155, 155, 155);
+    margin-left: 30px;
+    text-shadow: 1px 1px 1px black;
+}
+.card-body1{
+    background:black ;
+}
+.gde{
+    display:flex;
+    justify-content: center;
+   
+}
+.card5{
+    position: absolute;
+    top: 20%;
+    background: rgb(187, 128, 255);
+    border-radius: 10px;
+}
+.card4{
+    position: absolute;
+    top: 55%;
+    background: rgb(187, 128, 255);
+    border-radius: 10px;
+}
+
+
